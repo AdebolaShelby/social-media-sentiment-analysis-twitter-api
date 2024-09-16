@@ -2,11 +2,11 @@
 
 1. Project Setup and Planning
     * Objective: Assess the sentiment of tweets regarding the 2024 presidential election over the last 6 months to determine:
-    * Sentiment trends (positive, negative, neutral) related to the candidates, parties, and general election discourse.
-    * Key issues/topics that people tweet about the most (e.g., healthcare, economy, immigration, social justice).
-        * Topics and Keywords:
-            * Focus on relevant election hashtags, candidate names, and key political topics (e.g., #Election2024, #Biden2024, #Trump2024, #Vote2024).
-            * Include specific issue-based hashtags (e.g., #Healthcare, #Economy, #ClimateChange, #Border).
+        * Sentiment trends (positive, negative, neutral) related to the candidates, parties, and general election discourse.
+        * Key issues/topics that people tweet about the most (e.g., healthcare, economy, immigration, social justice).
+            * Topics and Keywords:
+                * Focus on relevant election hashtags, candidate names, and key political topics (e.g., #Election2024, #Biden2024, #Trump2024, #Vote2024).
+                * Include specific issue-based hashtags (e.g., #Healthcare, #Economy, #ClimateChange, #Border).
     * Tools: Tweepy, Pandas, Matplotlib, TextBlob, VADER, and other relevant NLP libraries installed.
 
 2. Data Extraction
